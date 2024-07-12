@@ -1,3 +1,8 @@
 # Playtube: a youtube like application
 
 [gitignore generator](https://mrkandreev.name/snippets/gitignore-generator/)
+
+```
+<!-- DB connection string -->
+mongodb+srv://wasif:<password>@playtube-cluster.8o3tcrr.mongodb.net/
+```
