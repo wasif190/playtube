@@ -37,7 +37,7 @@ const userSchema = new Schema({
             ref: "Video"
         }
     ],
-    pssword: {
+    password: {
         type: String,
         required: [true, "Password is required"]
     },
